@@ -8,7 +8,8 @@ Its an end-to-end project designed to be as a frame work for future use cases an
 
 # Architecture
 
-<img width="842" height="600" alt="image" src="https://github.com/user-attachments/assets/44cfb68b-2f58-4831-8885-6db42123f4f2" />
+<img width="849" height="610" alt="image" src="https://github.com/user-attachments/assets/35ffc0b9-4b25-4a7c-b80f-c7306ea07823" />
+
 
 -  Raw Layer: This stage stores data as-is from sources, later data is ingested from CSV/XLSX/API into SQL Server database.
 
