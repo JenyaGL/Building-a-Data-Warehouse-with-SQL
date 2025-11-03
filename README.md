@@ -6,7 +6,7 @@ KPI Dashboards on PowerBI.
 Its an end-to-end project designed to be as a frame work for future use cases and data infastracture of a small business.
 
 
-# architecture
+# Architecture
 
 <img width="842" height="600" alt="image" src="https://github.com/user-attachments/assets/44cfb68b-2f58-4831-8885-6db42123f4f2" />
 
