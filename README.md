@@ -4,6 +4,7 @@ This is my take on how to build a data warehouse using Microsoft SQL server. inc
 KPI Dashboards on PowerBI.
 
 Its an end-to-end project designed to be as a frame work for future use cases and data infastracture of a small business.
+
 -----
 # architecture
 
