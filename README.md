@@ -28,4 +28,4 @@ This frame includes:
 
 Heres a Notion documentation on how to proceed with this project
 
-LINK<https://www.notion.so/Data-Warehouse-Project-29c055b36518803cb54df77b50707fd1?source=copy_link>
+<https://www.notion.so/Data-Warehouse-Project-29c055b36518803cb54df77b50707fd1?source=copy_link>
