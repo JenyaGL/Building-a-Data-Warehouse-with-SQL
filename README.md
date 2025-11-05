@@ -26,6 +26,6 @@ This frame includes:
 2) A complete and customizable ETL Process 
 3) star query data model
 
-Heres a Notion documentation on how to proceed with this project
+Heres a Notion documentation of this project
 
 <https://www.notion.so/Data-Warehouse-Project-29c055b36518803cb54df77b50707fd1?source=copy_link>
