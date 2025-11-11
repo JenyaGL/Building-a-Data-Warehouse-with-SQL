@@ -29,3 +29,7 @@ This frame includes:
 Heres a Notion documentation of this project
 
 <https://www.notion.so/Data-Warehouse-Project-29c055b36518803cb54df77b50707fd1?source=copy_link>
+
+
+
+[Power BI KPI pages.pdf](https://github.com/user-attachments/files/23482475/Power.BI.KPI.pages.pdf)
