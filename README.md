@@ -32,4 +32,7 @@ Heres a Notion documentation of this project
 
 
 
+
+Power BI KPI pages, connected via SQL server locally.
+
 [Power BI KPI pages.pdf](https://github.com/user-attachments/files/23482475/Power.BI.KPI.pages.pdf)
