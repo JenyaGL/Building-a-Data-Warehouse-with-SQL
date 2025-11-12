@@ -24,7 +24,8 @@ This frame includes:
 
 1) General data Warehouse design with 3 layers
 2) A complete and customizable ETL Process 
-3) star query data model
+3) star schema data model
+4) power BI Notebook With KPIs
 
 Heres a Notion documentation of this project
 
